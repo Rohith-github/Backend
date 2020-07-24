@@ -1,0 +1,11 @@
+com\sasken\geofencing\validaton\GeoCoordinatesValidation.class
+com\sasken\geofencing\config\SpringFoxConfig.class
+com\sasken\geofencing\model\GeoCoordinates.class
+com\sasken\geofencing\exception\ResourceNotFoundException.class
+com\sasken\geofencing\exception\ErrorResponse.class
+com\sasken\geofencing\controller\GeoCoordinatesController.class
+com\sasken\geofencing\repository\GeoCoordinatesRepository.class
+com\sasken\geofencing\service\GeoCoordinatesServiceImpl.class
+com\sasken\geofencing\exception\GlobalExceptionHandler.class
+com\sasken\geofencing\Application.class
+com\sasken\geofencing\service\GeoCoordinatesService.class

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50477b7e-d1bf-4d2c-96b9-1b5dc026fedd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eMANJfw9NYmYmPFr7urRFQnLe5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CoordinatesGeneratorApp" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\POC\backend\spring-boot-rest-api-for-geofencing\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sasken.geofencing.config" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sasken.geofencing.service" />
+      <recent name="com.sasken.geofencing.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.sasken.geofencing.Application" />
+      <module name="spring-boot-rest-api-geofencing" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=dev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sasken.geofencing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.geofencing.Application" />
+      <module name="spring-boot-rest-api-geofencing" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=dev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.geofencing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.geofencing.Application" />
+      <module name="spring-boot-rest-api-geofencing" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=dev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.geofencing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-rest-api-geofencing" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.geofencing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.project.geofencing" />
+      <option name="MAIN_CLASS_NAME" value="com.project.geofencing.ApplicationTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=dev" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="JUnit.ApplicationTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.ApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50477b7e-d1bf-4d2c-96b9-1b5dc026fedd" name="Default Changelist" comment="" />
+      <created>1594121046086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594121046086</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1595405240858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1595405240858" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595565675319">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1595565675319" />
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1595397522530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1595397522530" />
+    <state x="188" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1595477780081">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="188" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1595477780081" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595242718629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1595242718629" />
+    <state x="550" y="113" key="EnvironmentVariablesDialog" timestamp="1594125733435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="113" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1594125733435" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1595504481167">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595504481167" />
+    <state width="1323" height="170" key="GridCell.Tab.0.bottom" timestamp="1595578507108">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595578507108" />
+    <state width="1323" height="170" key="GridCell.Tab.0.center" timestamp="1595578507108">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="170" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595578507108" />
+    <state width="1323" height="170" key="GridCell.Tab.0.left" timestamp="1595578507107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="170" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595578507107" />
+    <state width="1323" height="170" key="GridCell.Tab.0.right" timestamp="1595578507108">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="170" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595578507108" />
+    <state width="1323" height="254" key="GridCell.Tab.1.bottom" timestamp="1595496793143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="254" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595496793143" />
+    <state width="1323" height="254" key="GridCell.Tab.1.center" timestamp="1595496793143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="254" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1595496793143" />
+    <state width="1323" height="254" key="GridCell.Tab.1.left" timestamp="1595496793143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="254" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1595496793143" />
+    <state width="1323" height="254" key="GridCell.Tab.1.right" timestamp="1595496793143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="254" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1595496793143" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1595398684124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595398684124" />
+    <state x="65" y="0" key="new project wizard" timestamp="1595334665239">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595334665239" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sasken/geofencing/service/UserService.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sasken/geofencing/service/UserService.java</url>
+          <line>13</line>
+          <properties class="com.sasken.geofencing.service.UserService">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_boot_rest_api_for_geofencing$Application.ic" NAME="Application Coverage Results" MODIFIED="1595508608123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.geofencing.*</FILTER>
+    </SUITE>
+  </component>
+</project>

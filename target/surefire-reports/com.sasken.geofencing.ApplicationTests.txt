@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sasken.geofencing.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 29.094 s - in com.sasken.geofencing.ApplicationTests
