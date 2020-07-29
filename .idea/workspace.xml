@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50477b7e-d1bf-4d2c-96b9-1b5dc026fedd" name="Default Changelist" comment="" />
+    <list default="true" id="50477b7e-d1bf-4d2c-96b9-1b5dc026fedd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,8 +30,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CoordinatesGeneratorApp" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-aws-iot-demo" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -46,7 +49,7 @@
     <configuration name="Application" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.sasken.geofencing.Application" />
+      <option name="MAIN_CLASS_NAME" value="com.project.geofencing.Application" />
       <module name="spring-boot-rest-api-geofencing" />
       <option name="VM_PARAMETERS" value="-Dspring.profiles.active=dev" />
       <extension name="coverage">
@@ -135,10 +138,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1595405240858" />
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595565675319">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595834795642">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1595565675319" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1595834795642" />
     <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1595397522530">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -155,26 +158,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="550" y="113" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1594125733435" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1595504481167">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1595924085290">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595504481167" />
-    <state width="1323" height="2" key="GridCell.Tab.0.bottom" timestamp="1595662928565">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595924085290" />
+    <state width="1323" height="183" key="GridCell.Tab.0.bottom" timestamp="1596004041426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595662928565" />
-    <state width="1323" height="2" key="GridCell.Tab.0.center" timestamp="1595662928565">
+    <state width="1323" height="183" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596004041426" />
+    <state width="1323" height="183" key="GridCell.Tab.0.center" timestamp="1596004041426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595662928565" />
-    <state width="1323" height="2" key="GridCell.Tab.0.left" timestamp="1595662928564">
+    <state width="1323" height="183" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596004041426" />
+    <state width="1323" height="183" key="GridCell.Tab.0.left" timestamp="1596004041426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595662928564" />
-    <state width="1323" height="2" key="GridCell.Tab.0.right" timestamp="1595662928565">
+    <state width="1323" height="183" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596004041426" />
+    <state width="1323" height="183" key="GridCell.Tab.0.right" timestamp="1596004041426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595662928565" />
+    <state width="1323" height="183" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596004041426" />
     <state width="1323" height="254" key="GridCell.Tab.1.bottom" timestamp="1595496793143">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -191,14 +194,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="254" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1595496793143" />
-    <state x="41" y="20" width="998" height="708" key="SettingsEditor" timestamp="1595594435767">
+    <state x="41" y="20" width="998" height="708" key="SettingsEditor" timestamp="1595923907011">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="41" y="20" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595594435767" />
-    <state x="65" y="0" key="new project wizard" timestamp="1595334665239">
+    <state x="41" y="20" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595923907011" />
+    <state x="65" y="0" key="new project wizard" timestamp="1595923937195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595334665239" />
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595923937195" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
